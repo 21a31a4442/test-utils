@@ -29,7 +29,7 @@ public class CcTypeTest {
 	public void addCostcenterType(String cctype) {
 		ExtentTestNGITestListener.createNode("Add Cost Center Type");
 		getTest().get().info("Adding Cost Center Type");
-		cctypefunctions.addCctype(cctype);
+		cctypefunctions.addCctype(cctype);  
 	}
 	
 	@Test(priority = 1,dataProvider = "editCcType",dataProviderClass = CcTypeDataProvider.class)
