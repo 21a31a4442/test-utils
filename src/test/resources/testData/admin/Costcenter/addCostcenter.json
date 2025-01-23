@@ -1,0 +1,31 @@
+[
+    {
+      "CcCode": "CC01",
+      "EntityParent": "Entity1",
+      "incDate": "2025-01-01",
+      "gstNum": "GST12345",
+      "address1": "123 Main St",
+      "address2": "Suite 101",
+      "city": "CityA",
+      "state": "StateA",
+      "country": "CountryA",
+      "pincode": "123456",
+      "primaryContact": "John Doe",
+      "status": "Active"
+    },
+    {
+      "CcCode": "CC02",
+      "EntityParent": "Entity2",
+      "incDate": "2025-01-02",
+      "gstNum": "GST12346",
+      "address1": "456 Oak St",
+      "address2": "Suite 202",
+      "city": "CityB",
+      "state": "StateB",
+      "country": "CountryB",
+      "pincode": "654321",
+      "primaryContact": "Jane Smith",
+      "status": "Inactive"
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+[
+    {
+      "searchCcCode": "CC01",
+      "CcCode": "CC01",
+      "EntityParent": "Entity1 Edited",
+      "incDate": "2025-01-03",
+      "gstNum": "GST12345",
+      "address1": "789 Pine St",
+      "address2": "Suite 303",
+      "city": "CityA Edited",
+      "state": "StateA Edited",
+      "country": "CountryA Edited",
+      "pincode": "123457",
+      "primaryContact": "John Doe Edited",
+      "status": "Active"
+    },
+    {
+      "searchCcCode": "CC02",
+      "CcCode": "CC02",
+      "EntityParent": "Entity2 Edited",
+      "incDate": "2025-01-04",
+      "gstNum": "GST12346",
+      "address1": "987 Birch St",
+      "address2": "Suite 404",
+      "city": "CityB Edited",
+      "state": "StateB Edited",
+      "country": "CountryB Edited",
+      "pincode": "654322",
+      "primaryContact": "Jane Smith Edited",
+      "status": "Inactive"
+    }
+  ]
+  

@@ -1,0 +1,13 @@
+[
+    {
+      "cityName": "CityA",
+      "state": "StateA",
+      "country": "CountryA"
+    },
+    {
+      "cityName": "CityB",
+      "state": "StateB",
+      "country": "CountryB"
+    }
+  ]
+  

@@ -1,0 +1,24 @@
+[
+    {
+      "searchStatus": "Active",
+      "searchModule": "Admin",
+      "statusCode": "1001",
+      "statusName": "Active",
+      "statusModule": "Admin"
+    },
+    {
+      "searchStatus": "Inactive",
+      "searchModule": "User",
+      "statusCode": "1002",
+      "statusName": "Inactive",
+      "statusModule": "User"
+    },
+    {
+      "searchStatus": "Pending",
+      "searchModule": "Admin",
+      "statusCode": "1003",
+      "statusName": "Pending",
+      "statusModule": "Admin"
+    }
+  ]
+  

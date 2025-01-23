@@ -1,0 +1,15 @@
+[
+    {
+      "searchCity": "CityA",
+      "cityName": "CityA Edited",
+      "state": "StateA Edited",
+      "country": "CountryA Edited"
+    },
+    {
+      "searchCity": "CityB",
+      "cityName": "CityB Edited",
+      "state": "StateB Edited",
+      "country": "CountryB Edited"
+    }
+  ]
+  

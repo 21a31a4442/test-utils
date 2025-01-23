@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Email",
+      "status": "Active"
+    },
+    {
+      "name": "Phone",
+      "status": "Inactive"
+    },
+    {
+      "name": "Fax",
+      "status": "Active"
+    }
+  ]
+  

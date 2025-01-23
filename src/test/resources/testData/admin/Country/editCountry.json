@@ -1,0 +1,27 @@
+[
+    {
+      "searchCountry": "United States",
+      "searchCode": "US",
+      "searchCurrency": "USD",
+      "newCountry": "United States of America",
+      "newCode": "USA",
+      "newCurrency": "USD"
+    },
+    {
+      "searchCountry": "India",
+      "searchCode": "IN",
+      "searchCurrency": "INR",
+      "newCountry": "Republic of India",
+      "newCode": "IN",
+      "newCurrency": "INR"
+    },
+    {
+      "searchCountry": "Australia",
+      "searchCode": "AU",
+      "searchCurrency": "AUD",
+      "newCountry": "Commonwealth of Australia",
+      "newCode": "AUS",
+      "newCurrency": "AUD"
+    }
+  ]
+  

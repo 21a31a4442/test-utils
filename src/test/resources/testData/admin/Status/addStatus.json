@@ -1,0 +1,18 @@
+[
+    {
+      "statusCode": "1001",
+      "statusName": "Active",
+      "statusModule": "Admin"
+    },
+    {
+      "statusCode": "1002",
+      "statusName": "Inactive",
+      "statusModule": "User"
+    },
+    {
+      "statusCode": "1003",
+      "statusName": "Pending",
+      "statusModule": "Admin"
+    }
+  ]
+  

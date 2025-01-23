@@ -1,0 +1,24 @@
+[
+    {
+      "searchDept": "Human Resources",
+      "searchCode": "HR001",
+      "deptName": "Human Resources Edited",
+      "deptCode": "HR001",
+      "status": "Active"
+    },
+    {
+      "searchDept": "Finance",
+      "searchCode": "FIN002",
+      "deptName": "Finance Edited",
+      "deptCode": "FIN002",
+      "status": "Inactive"
+    },
+    {
+      "searchDept": "Engineering",
+      "searchCode": "ENG003",
+      "deptName": "Engineering Edited",
+      "deptCode": "ENG003",
+      "status": "Active"
+    }
+  ]
+  

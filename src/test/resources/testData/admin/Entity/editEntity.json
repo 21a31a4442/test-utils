@@ -1,0 +1,17 @@
+[
+    {
+      "searchEntity": "Entity One",
+      "entityName": "Entity One Edited",
+      "CIN": "U12345MH2020PLC123456",
+      "incDate": "2020-01-01",
+      "status": "Active"
+    },
+    {
+      "searchEntity": "Entity Two",
+      "entityName": "Entity Two Edited",
+      "CIN": "U67890KA2021PLC654321",
+      "incDate": "2021-03-15",
+      "status": "Inactive"
+    }
+  ]
+  

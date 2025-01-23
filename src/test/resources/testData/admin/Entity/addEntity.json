@@ -1,0 +1,33 @@
+[
+    {
+      "Name": "Entity One",
+      "CcCode": "EO001",
+      "CIN": "U12345MH2020PLC123456",
+      "incDate": "2020-01-01",
+      "gstNum": "123456789012345",
+      "address1": "123 Main St",
+      "address2": "Apt 101",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "pincode": "400001",
+      "primaryContact": "John Doe",
+      "status": "Active"
+    },
+    {
+      "Name": "Entity Two",
+      "CcCode": "ET002",
+      "CIN": "U67890KA2021PLC654321",
+      "incDate": "2021-03-15",
+      "gstNum": "987654321098765",
+      "address1": "456 Park Ave",
+      "address2": "Suite 500",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560001",
+      "primaryContact": "Jane Smith",
+      "status": "Inactive"
+    }
+  ]
+  

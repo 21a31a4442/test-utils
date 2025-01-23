@@ -1,0 +1,21 @@
+[
+    {
+      "searchCtype": "Email",
+      "searchStatus": "Active",
+      "Ctype": "Email Edited",
+      "status": "Active"
+    },
+    {
+      "searchCtype": "Phone",
+      "searchStatus": "Inactive",
+      "Ctype": "Phone Edited",
+      "status": "Inactive"
+    },
+    {
+      "searchCtype": "Fax",
+      "searchStatus": "Active",
+      "Ctype": "Fax Edited",
+      "status": "Active"
+    }
+  ]
+  

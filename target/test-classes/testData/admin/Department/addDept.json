@@ -1,0 +1,18 @@
+[
+    {
+      "deptName": "Human Resources",
+      "deptCode": "HR001",
+      "status": "Active"
+    },
+    {
+      "deptName": "Finance",
+      "deptCode": "FIN002",
+      "status": "Inactive"
+    },
+    {
+      "deptName": "Engineering",
+      "deptCode": "ENG003",
+      "status": "Active"
+    }
+  ]
+  

@@ -1,0 +1,18 @@
+[
+    {
+      "desnName": "Manager",
+      "desnCode": "MGR001",
+      "status": "Active"
+    },
+    {
+      "desnName": "Developer",
+      "desnCode": "DEV002",
+      "status": "Inactive"
+    },
+    {
+      "desnName": "Tester",
+      "desnCode": "TST003",
+      "status": "Active"
+    }
+  ]
+  
